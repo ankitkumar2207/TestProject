@@ -1,0 +1,34 @@
+{
+  "login": [
+    {
+      "name": "ankit",
+      "password": "pass@22"
+    }
+  ],
+  "userData": [
+    {
+      "name": "pankaj",
+      "age": 20,
+      "address": "mumbai thane",
+      "email": "acces@m.com",
+      "phnum": 5485458545,
+      "id": 1
+    },
+    {
+      "name": "Suresh",
+      "age": "24",
+      "address": "Kalyan",
+      "email": "gamil@yes.in",
+      "phnum": "456265362",
+      "id": 2
+    },
+    {
+      "name": "Yogesh ",
+      "age": "26",
+      "address": "Thane",
+      "email": "rights@yes.in",
+      "phnum": "78595876958",
+      "id": 3
+    }
+  ]
+}
